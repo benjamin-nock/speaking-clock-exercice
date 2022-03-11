@@ -29,8 +29,8 @@ public class MainApp {
 		
 		System.out.println();
 		
-		System.out.println("Conversions with ClockConverterTwo:");
 		//I decided to take a bit more time to make a more realistic clockConverter for fun
+		System.out.println("Conversions with ClockConverterTwo:");
 		ClockConverterTwo clockConverterTwo = new ClockConverterTwo();
 		
 		clockConverterTwo.printTimeToWords("00:01");
